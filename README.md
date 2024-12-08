@@ -1,5 +1,5 @@
 ```mermaid
-  flowChart
+  sequenceDiagram
   direction LR
   [*] --> Waiting
   Waiting --> Processing
