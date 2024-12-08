@@ -4,7 +4,7 @@
   [*] --> Waiting
   Waiting --> Processing
   Proccessing --> Successful
-  state Incomplete {
+  state Waiting {
     direction LR
     Incomplete --> Complete
   }
