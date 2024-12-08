@@ -1,5 +1,5 @@
 ```mermaid
-  stateDiagram
+  Processing
   direction LR
   [*] --> Waiting
   Waiting --> Processing
